@@ -15,7 +15,8 @@ print(r"""
     | |  __/ | | | | | |_) | (_) | | | | (_) \ V /  __/
     |_|\___|_| |_| |_| .__/ \___/|_|_|  \___/ \_/ \___|
                      | |                               
-                     |_|                               
+                     |_|   
+          Written by:CHEGEBB 
  """ )
 
 # The directory to save downloaded songs
