@@ -90,7 +90,7 @@ def search_and_download_mp3chief(song_name):
         print(f"Error: {e}")
 
 def display_menu():
-    print("\n----- TempoTrove Menu -----")
+    print("\n----- Welcome to TempoTrove Menu -----")
     print("1. Search and Download a Song from mp3skull")
     print("2. Search and Download a Song from tubidy.mobi")
     print("3. Search and Download a Song from mp3chief.com")
