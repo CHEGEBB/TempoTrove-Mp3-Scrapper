@@ -6,7 +6,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ASCII art for the name TempoTrove
-print(r"""
+print("""
  
   _______                      _______                 
  |__   __|                    |__   __|                
